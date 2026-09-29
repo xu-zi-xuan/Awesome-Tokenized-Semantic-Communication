@@ -1,6 +1,6 @@
 # ⭐ Tokenized Semantic Communication Paper Collection
 
-A curated list of representative works on **token-level / tokenization-driven semantic communication** (e.g., **Token Communications / TokCom / TokenCom**), covering **token as communication unit**, **semantic token selection**, **token-domain transmission**, and **LLM- or foundation-model-guided reconstruction**.
+A curated and actively updated list of representative works on **token-level / tokenization-driven semantic communication** (e.g., **Token Communications / TokCom / TokenCom**), covering **token as communication unit**, **semantic token selection**, **token-domain transmission**, and **LLM- or foundation-model-guided reconstruction**.
 
 This repository focuses on research at the intersection of:
 - **Semantic Communication**
@@ -49,6 +49,14 @@ This paradigm is promising because it can improve:
 | **2025 (Sep)** | **Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge** | Omar Erak, Omar Alhussein, Hatem Abou-Zeid, Mehdi Bennis, Sami Muhaidat | arXiv | [arXiv:2509.09955](https://arxiv.org/abs/2509.09955) |
 | **2026 (Feb)** | **Wireless TokenCom: RL-Based Tokenizer Agreement for Semantic-Aware Wireless Resource Allocation** | Fatemeh Zeinali, Mahdi Boloursaz Mashhadi, Michail Matthaiou, H. Vincent Poor, Mehdi Bennis | arXiv | [arXiv:2602.12338](https://arxiv.org/abs/2602.12338) |
 | **2026 (Mar)** | **Video TokenCom: Textual Intent-Guided Multi-Rate Video Token Communications with UEP-Based Adaptive Source-Channel Coding** | Jingxuan Men, Mahdi Boloursaz Mashhadi, Ning Wang, Yi Ma, Mike Nilsson, Rahim Tafazolli | arXiv | [arXiv:2603.02470](https://arxiv.org/abs/2603.02470) |
+| **2026 (May)** | **Evolving Token Communication with Parametric Memory Network** | Weixuan Chen, Qianqian Yang | arXiv | [arXiv:2605.01869](https://arxiv.org/abs/2605.01869) |
+| **2026 (May)** | **Context-Aware Wireless Token Communication via Joint Token Masking and Detection** | Junyong Shin, Joohyuk Park, Yongjeong Oh, Jihong Park, Jinho Choi, Yo-Seb Jeon | arXiv | [arXiv:2605.02123](https://arxiv.org/abs/2605.02123) |
+| **2026 (Jul)** | **ATS-ToDMA: Adaptive Token Selection and Token-Domain Multiple Access for Cross-Modal Semantic Communications** | Sachin Kadam, Dong In Kim | arXiv | [arXiv:2607.03520](https://arxiv.org/abs/2607.03520) |
+| **2026 (Aug)** | **Ada-TokenCom: Rate-Adaptive Token Communications via Large-Model-Driven Token Compression and Generation** | Zijun Zhang, Li Qiao, Mahdi Boloursaz Mashhadi, Zhen Gao, Mehdi Bennis, Kaibin Huang | arXiv | [arXiv:2608.28086](https://arxiv.org/abs/2608.28086) |
+| **2026 (Sep)** | **TokenComSR: Task-Sensitivity-Guided Token Communication for Wireless Image Super-Resolution** | Ye Wang, Li Qiao, Zhen Gao, Hua Wang | arXiv | [arXiv:2609.03735](https://arxiv.org/abs/2609.03735) |
+| **2026 (Sep)** | **From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity** | Yu Ma, Zhen Gao, Li Qiao, Xiaoyuan Zhang, Mahdi Boloursaz Mashhadi, Yin Xu, Wenjun Xu, Xiaodong Xu, Kaibin Huang, Jiangzhou Wang, Rahim Tafazolli, Sheng Chen, Tony Q. S. Quek, Ping Zhang | arXiv / survey | [arXiv:2609.10714](https://arxiv.org/abs/2609.10714) |
+| **2026 (Sep)** | **Agentic TokenCom: A Chain-of-Agents Framework for Multimodal Token Communications** | Feibo Jiang, Lei Mao, Li Dong, Kezhi Wang, Cunhua Pan, Abbas Jamalipour | IEEE Transactions on Cognitive Communications and Networking | [DOI:10.1109/TCCN.2026.3732515](https://doi.org/10.1109/TCCN.2026.3732515) |
+| **2026 (Sep)** | **Thinking in Tokens, Talking in Bits: A Practical Interface for Token Communication** | Chanho Park, Bumsu Park, Soonhee Kwon, Sangrim Lee, Namyoon Lee | arXiv | [arXiv:2609.15256](https://arxiv.org/abs/2609.15256) |
 
 ---
 
